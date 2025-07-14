@@ -10,6 +10,13 @@ I'm Kelley, a rising junior studying EECS at UC Berkeley. Currently exploring di
   - **Languages used**: Python, JavaScript, HTML/CSS  
   - **Frameworks/tools used**: React.js, MaterialUI, Flask, MongoDB  
   - **[Repository](https://github.com/EggsInAJar/Gym-Betting/blob/main/Design.md)**
+  <summary>Bookley</summary>
+
+  **Book tracker and goal setter full-stack web application**  
+  - **Status**: in early development
+  - **Languages used**: Python, JavaScript, HTML/CSS  
+  - **Frameworks/tools used**: React.js, Flask, MongoDB  
+  - **[Repository](https://github.com/kelleyliang/book-tracker-web)**
 
 </details>
 
