@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm Kelley, a rising junior studying EECS at UC Berkeley. Currently exploring different projects.
+I'm Kelley, a junior studying EECS at UC Berkeley. Currently exploring different projects.
 
 ## Projects
 
