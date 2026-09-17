@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm Kelley, a junior studying EECS at UC Berkeley. Currently building BuzzOS!
+I'm Kelley, a Senior studying EECS at UC Berkeley
 
 ## Projects
 
