@@ -20,15 +20,6 @@ to operating systems, concurrency, and distributed systems.
 | **[My portfolio](https://kelleyliang.github.io/kelley-portfolio/)** | Systems projects, work experience, and a little interactive terminal garden. Built with React and Vite. | [Visit](https://kelleyliang.github.io/kelley-portfolio/) · [Code](https://github.com/kelleyliang/kelley-portfolio) |
 | **[BuzzOS](https://kelleyliang.github.io/BuzzOS/)** | A playful retro desktop in your browser, with movable windows, a notebook, a Pomodoro timer, and Snake. Built with React. | [Launch](https://kelleyliang.github.io/BuzzOS/) · [Code](https://github.com/kelleyliang/BuzzOS) |
 
-<details>
-<summary><b>More projects: flexBet & Bookley</b></summary>
-
-<br />
-
-- **[flexBet](https://github.com/EggsInAJar/Gym-Betting/blob/main/Design.md)** — A gym betting web app built with React, Material UI, Flask, and MongoDB.
-- **[Bookley](https://github.com/kelleyliang/book-tracker-web)** — A book tracker and reading goal setter built with React, Flask, and MongoDB.
-
-</details>
 
 ### What I enjoy working on
 
@@ -42,4 +33,4 @@ Operating systems · Concurrency · Distributed systems · Computer architecture
 
 ---
 
-*Always figuring things out. Let’s [build something](mailto:kelley.s.liang@gmail.com).*
+*Always figuring things out.*
