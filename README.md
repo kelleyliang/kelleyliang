@@ -1,11 +1,8 @@
-```text
-kelley@berkeley:~$ whoami
-Kelley Liang · EECS @ UC Berkeley
-Always figuring things out.
-```
+# Hi, I’m Kelley
 
-I enjoy building software and understanding the systems underneath it.
-Currently exploring operating systems, concurrency, and distributed systems.
+**EECS @ UC Berkeley**
+
+I enjoy building software and understanding the systems underneath it—from operating systems to concurrency and distributed systems.
 
 ### Things I’ve built
 
