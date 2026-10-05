@@ -1,36 +1,21 @@
-<div align="center">
+```text
+kelley@berkeley:~$ whoami
+Kelley Liang · EECS @ UC Berkeley
+Always figuring things out.
+```
 
-# Hi, I’m Kelley 👋
+I enjoy building software and understanding the systems underneath it.
+Currently exploring operating systems, concurrency, and distributed systems.
 
-**EECS @ UC Berkeley · Curious about how things work**
+### Things I’ve built
 
-I build software and explore the systems underneath it—from CPU instructions<br />
-to operating systems, concurrency, and distributed systems.
+- **[Portfolio ↗](https://kelleyliang.github.io/kelley-portfolio/)** — My projects, experience, and a little interactive terminal garden.
+- **[BuzzOS ↗](https://kelleyliang.github.io/BuzzOS/)** — A retro desktop in your browser. Movable windows, notes, a Pomodoro timer, and Snake.
 
-[Portfolio](https://kelleyliang.github.io/kelley-portfolio/) · [BuzzOS](https://kelleyliang.github.io/BuzzOS/) · [LinkedIn](https://www.linkedin.com/in/kelley-liang/) · [Email](mailto:kelley.s.liang@gmail.com)
+### Toolkit
 
-</div>
-
----
-
-### A few things I’ve built
-
-| Project | A little about it | Explore |
-| :--- | :--- | :--- |
-| **[My portfolio](https://kelleyliang.github.io/kelley-portfolio/)** | Systems projects, work experience, and a little interactive terminal garden. Built with React and Vite. | [Visit](https://kelleyliang.github.io/kelley-portfolio/) · [Code](https://github.com/kelleyliang/kelley-portfolio) |
-| **[BuzzOS](https://kelleyliang.github.io/BuzzOS/)** | A playful retro desktop in your browser, with movable windows, a notebook, a Pomodoro timer, and Snake. Built with React. | [Launch](https://kelleyliang.github.io/BuzzOS/) · [Code](https://github.com/kelleyliang/BuzzOS) |
-
-
-### What I enjoy working on
-
-Operating systems · Concurrency · Distributed systems · Computer architecture
-
-### My toolkit
-
-**Languages:** Python, C/C++, Go, Java, JavaScript, TypeScript, SQL, Rust<br />
-**Web & backend:** React, Node.js, FastAPI, Flask, MongoDB<br />
-**Systems & data:** Linux, Docker, Kubernetes, Apache Flink, AWS Kinesis, S3, Athena
+Python · C/C++ · Go · JavaScript/TypeScript · SQL · React · Linux · AWS
 
 ---
 
-*Always figuring things out.*
+[GitHub](https://github.com/kelleyliang) · [LinkedIn](https://www.linkedin.com/in/kelley-liang/) · [Email](mailto:kelley.s.liang@gmail.com)
