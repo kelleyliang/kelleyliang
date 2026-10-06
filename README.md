@@ -6,7 +6,7 @@ I enjoy building software and understanding the systems underneath it—from ope
 
 ### Things I’ve built
 
-- **[Portfolio ↗](https://kelleyliang.github.io/kelley-portfolio/)** — My projects, experience, and a little interactive terminal garden.
+- **[Portfolio ↗](https://kelleyliang.github.io/kelley-portfolio/)** My projects, experience, and interests.
 - **[BuzzOS ↗](https://kelleyliang.github.io/BuzzOS/)** — A retro desktop in your browser. Movable windows, notes, a Pomodoro timer, and Snake.
 
 ### Toolkit
