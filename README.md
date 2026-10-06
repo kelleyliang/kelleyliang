@@ -15,4 +15,4 @@ Python · C/C++ · Go · JavaScript/TypeScript · SQL · React · Linux · AWS
 
 ---
 
-[GitHub](https://github.com/kelleyliang) · [LinkedIn](https://www.linkedin.com/in/kelley-liang/) · [Email](mailto:kelley.s.liang@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kelley-liang/) · [Email](mailto:kelley.s.liang@gmail.com)
